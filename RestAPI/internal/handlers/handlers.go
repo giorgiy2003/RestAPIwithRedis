@@ -5,7 +5,7 @@ import (
 	Logic "myapp/internal/logic"
 	"net/http"
 
-	Model "myapp/internal/Model"
+	Model "myapp/internal/model"
 
 	"github.com/gin-gonic/gin"
 )

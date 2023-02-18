@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	Model "myapp/internal/Model"
+	Model "myapp/internal/model"
 	Repository "myapp/internal/repository"
 )
 
